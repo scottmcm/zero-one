@@ -2,6 +2,10 @@
 name = "zero-one"
 version = "0.1.0"
 edition = "2021"
+license = "MIT OR Apache-2.0"
+repository = "https://github.com/scottmcm/zero-one"
+documentation = "https://docs.rs/zero-one"
+description = "Zero and One ZSTs for use with generic code."
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
